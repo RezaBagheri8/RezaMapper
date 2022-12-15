@@ -9,4 +9,4 @@ Note : it's just a simple mapper and doesn't have many features like other mappe
 
 Mapping:
 
-![alt text](https://github.com/RezaBagheri8/RezaMapper/blob/main/RezaMapper.png)
+![alt text](https://github.com/RezaBagheri8/RezaMapper/blob/main/Using.png)
