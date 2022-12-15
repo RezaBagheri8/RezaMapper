@@ -3,7 +3,7 @@
 simple object-object mapper in .net 
 
 Using:
-Just copy the RezaMapper.cs file and paste it to your project and use it:)
+Just copy the RezaMapper.cs file and paste it to your project and use it ;)
 
 Mapping:
 
